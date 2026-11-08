@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/postgresql-operator/commit/009abbb64b529133ee777b6a9e340f0e3ab4f967",
       "git:hexsha": "009abbb64b529133ee777b6a9e340f0e3ab4f967",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/postgresql-operator/commit/76e6828cd48a42d52210c9a96f991590d6503cfe",
